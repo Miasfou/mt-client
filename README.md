@@ -1,2 +1,2 @@
 # mt-client
-MiaTopia Client Distribution Repository.
+MiaTopia Client.
