@@ -3,7 +3,7 @@
   "isBeta": true,
   "channel": "beta",
   "minServerVersion": "0.1.0",
-  "releasedAt": 1791329906965,
+  "releasedAt": 1791330045082,
   "title": "MiaTopia v0.0.45 (BETA)",
   "bannerUrl": "",
   "changelog": "Random text ranting regarding the issues before 1.1.0, **Version 1.1.0 is officially here!** Thank you @everyone who tested and helped by reported bugs!\n\n##  Feature 1\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Feature 2\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Changes\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n##  Bug Fixes\n* **Fix** - Random info about the fix!\n* **Fix** - Random info about the fix!\n\n**Enjoy the update & have fun!** :white_heart:\n-# We'll be monitoring stability to make sure everything's stable.",
@@ -30,7 +30,7 @@
     ]
   },
   "downloadUrl": "https://github.com/Miasfou/mt-client/releases/download/v0.0.45-beta/bundle.zip",
-  "bundleHash": "33ee9450fca5f6cd543aa6d043bb6e123ae16663885b2b6536f8848b9cc942ed",
+  "bundleHash": "95d882804480ef0aa7395189df3ae16c2d3a10c8765b6fec937502e7236019fe",
   "bundleSizeBytes": 4397176,
   "files": {
     "assets/browserAll-DVy6-Flm.js": "b5432a673df116996661e3cf1d2df7f1f83a55a7d2d479d238077748fd40778d",
