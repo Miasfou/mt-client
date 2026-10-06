@@ -1,0 +1,76 @@
+{
+  "version": "0.0.45",
+  "isBeta": true,
+  "channel": "beta",
+  "minServerVersion": "0.1.0",
+  "releasedAt": 1791327480595,
+  "title": "MiaTopia v0.0.45 (BETA)",
+  "bannerUrl": "",
+  "changelog": "Random text ranting regarding the issues before 1.1.0, **Version 1.1.0 is officially here!** Thank you @everyone who tested and helped by reported bugs!\n\n##  Feature 1\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Feature 2\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Changes\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n##  Bug Fixes\n* **Fix** - Random info about the fix!\n* **Fix** - Random info about the fix!\n\n**Enjoy the update & have fun!** :white_heart:\n-# We'll be monitoring stability to make sure everything's stable.",
+  "updateNotes": {
+    "content": "@everyone :cherry_blossom: **MiaTopia v1.1.0 is HERE!** :cherry_blossom:",
+    "embeds": [
+      {
+        "title": "MT Update 1.1.0!",
+        "description": "Random text ranting regarding the issues before 1.1.0, **Version 1.1.0 is officially here!** Thank you @everyone who tested and helped by reported bugs!\n\n##  Feature 1\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Feature 2\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Changes\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n##  Bug Fixes\n* **Fix** - Random info about the fix!\n* **Fix** - Random info about the fix!\n\n**Enjoy the update & have fun!** :white_heart:\n-# We'll be monitoring stability to make sure everything's stable.\n",
+        "color": 16753355,
+        "image": {
+          "url": "https://edge.discord.me/server/29cbd5a0b7fb3f292a940f530ac304285837a4edaa4548e71e722c8dcd99eee0/banner_463144bc451263f434461b1cf6303bace158c1646966bee7b09ed087816e688f.jpg"
+        },
+        "footer": {
+          "text": "MT • v1.1.0 • Developed by Mia (miasfou)",
+          "icon_url": ""
+        },
+        "timestamp": "2026-08-17T18:00:00.000Z",
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.growtopiawiki.com/sprites/1458.png"
+        }
+      }
+    ]
+  },
+  "downloadUrl": "https://github.com/Miasfou/mt-client/releases/download/v0.0.45-beta/bundle.zip",
+  "bundleHash": "bcacbb11483dafb6f27efa276f2b51a84f063d0b54148dc6fefb17f35cc40615",
+  "bundleSizeBytes": 4396409,
+  "files": {
+    "assets/browserAll-t9kuy-zB.js": "d5dfa2cc05861e2874c3993ef51eb26592342b9b3c9216881238123c0ce5f5de",
+    "assets/index-D-N3759P.js": "73f9271ee194f81d450e3f8214e3f14060ea34e296cff7629d41fc4cde517850",
+    "assets/style-CAN1mHm-.css": "a14d33481ad60eea9d8d67a00b4082864443dd11b6fb2f6f7d4c20402193313f",
+    "assets/webworkerAll-BVj68lF5.js": "20b964804637ce6e9c2de59e4cb7e2b9a6a7f2d050b33d0e099c20c640af5a3f",
+    "atlas_0.png": "b120ad8e90a5c1afb70d71896c604564abc781fe9c7992185dbcfdecf0f06ac4",
+    "audio/break_glass.wav": "b2103d72c11ebcac05e8c708f6bb6fa7360dc57b5b6f731c94d56f380a6ba35d",
+    "audio/break_metal.wav": "1d08d6fce2d59851bceddc7dd593292f9451278b60ecbd234c9e68f112d21828",
+    "audio/break_rock.wav": "de3b6de0534908fca45ca411bd6ab3057b7ba1ca5af16f7842d8ead8722bc3d9",
+    "audio/break_wood.wav": "a03298926890cb9a29a8f2048468e231691c18e6bcbdbad052119e06e5549b85",
+    "audio/burn.wav": "06a2c42424c1b71cac67e99d27cfbd62f17f2ffd965d47a82ce2cc5243d3928d",
+    "audio/cant_place.wav": "7d620221ee1bc5bf1f0feea165bee08b23b5b7167727078704b3df615f788891",
+    "audio/click.wav": "e46278f894d538b366acc40925db83b8ac4daea030e98276cba5ab179ffe563f",
+    "audio/collect.wav": "6015ebada5a6d2ac465481437ee8468efe5917662e47fc56109a41a75e600120",
+    "audio/damage_glass.wav": "99a752f316a523967d84fb1f5de98f53a1753f6331ea77f4e4cd85ad83fa3fdf",
+    "audio/damage_metal.wav": "7625c90149955d95b6d51705192d03437532f8768512b93e7ad5e758cbb4d7c0",
+    "audio/damage_wood.wav": "b576d1dc06961826ce8338b4146259eefd84b3c47c5d128397e633e0987d92e9",
+    "audio/die.wav": "f1634823973b7d7496dcf66a34586691fcbf732a0b8b818ee9bf7c8c1c9bcdac",
+    "audio/door_enter.wav": "2d9f905fc3d6b4b5ff73a4dae612df81f1f9fee270f3295f548b8cada8e66428",
+    "audio/gem.wav": "4499ce0f48a20bed2651ef12e62f1d146aca021a749be27d354ecd1cabf01869",
+    "audio/harvest.wav": "9d4af6d62bfc8061192c8e342fb438b3ecab3b2dff15b169724eee976ca38eed",
+    "audio/hit_rock.wav": "aa2b36fad958a791d02ec20e0a17e0a7d1c800e1386a090d27550817dd84ba50",
+    "audio/jump.wav": "b98ca36ba6f2d001323792c90bb5274f1b15d1d4e991ee7e0974c40bacbe8433",
+    "audio/menu_theme.ogg": "2f0492ef34b4e5f8de1022ae9cc429eee1e260e0aac5ab260e55402a15ff7db5",
+    "audio/place.wav": "0b6d5b3b0a71d75afe4e7cd08798c0aa00de97a577fae7686b9e09e5ac17fd7c",
+    "audio/plant.wav": "5fbac73498952e1e2b03aa7605036cd9c6e841ac34be247fea300ea966b3d7a7",
+    "audio/player_leave.wav": "268e050d0f0533dd2dd75bb158d60a27022c3c85a6318e2aa495f9c7333be31b",
+    "audio/punch.wav": "e57aaea12369395e5a55621e08a0e070cbfa7ecbcedbb1b432002b0ac68fbaf1",
+    "audio/punch_locked.wav": "94143e49ca8399d5fc757a87cc296472fae3d3502bf43dbbbe07cfdd7474353f",
+    "audio/respawn.wav": "9f59a70b35c882ed1e988abe9df58e5131673ace3ce383b4683c2707b0d4a818",
+    "audio/session.wav": "6e1b2c696a2e9c4a0105f2f6a6682239f709a44bc7aafc9de5a4f2fc3118aa89",
+    "audio/splice.wav": "163186ba4ac034dd639fd49dc5d12c912aab2a2edd272b7ab92541885cfbeb7c",
+    "audio/trash.wav": "d8c463f92703a8a3117b7151c20c0c1ed97e6809c3681afc06182deb58840829",
+    "audio/ui_cancel.wav": "1fbae9a5455a31793a22cd92d165b241a448fd6c4972cf825ebd90db41dbbd5b",
+    "audio/ui_close.wav": "9e3c2a988db4d0d55cf77e8fd732a72296291146096fb702001266c2baa6cac8",
+    "audio/ui_open.wav": "ded246c0f02639e9edfdb2066fb3d221a924f869be4ad0a9b491e83da928c8c3",
+    "audio/world_theme.ogg": "9edbd5eecc65b7d9d1eddbeccaaa5f30f056e8222e848e924e1d0c3c01075f7f",
+    "engine.wasm": "50e1d0303b234b6d7f9a29f41af61b5b2c8c8095e56ecb2edd3b566c38be118a",
+    "index.html": "26af8d4f49862a16a7c31a4bc5c6ffd74f04a9a41ec6b67e18e0562f6657d438",
+    "miatopia.mtpak": "57adce470ab07fe66910f996486acaae037a53fc4d27cdb49bab918c3e2f5489"
+  }
+}
