@@ -1,10 +1,10 @@
 {
-  "version": "0.0.558",
+  "version": "0.0.559",
   "isBeta": true,
   "channel": "beta",
   "minServerVersion": "0.1.0",
-  "releasedAt": 1794173113661,
-  "title": "MiaTopia v0.0.558 (BETA)",
+  "releasedAt": 1794175100808,
+  "title": "MiaTopia v0.0.559 (BETA)",
   "bannerUrl": "",
   "changelog": "Random text ranting regarding the issues before 1.1.0, **Version 1.1.0 is officially here!** Thank you @everyone who tested and helped by reported bugs!\n\n##  Feature 1\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Feature 2\n* **Subfeature** - Random info about the feature!\n* **Subfeature** - Random info about the feature!\n##  Changes\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n* **Change** - Random info about the change!\n##  Bug Fixes\n* **Fix** - Random info about the fix!\n* **Fix** - Random info about the fix!\n\n**Enjoy the update & have fun!** :white_heart:\n-# We'll be monitoring stability to make sure everything's stable.",
   "updateNotes": {
@@ -29,14 +29,14 @@
       }
     ]
   },
-  "downloadUrl": "https://github.com/Miasfou/mt-client/releases/download/v0.0.558-beta/bundle.zip",
-  "bundleHash": "c186110ddfc476c24a6b1f551771d58cb6dd5935876d431166638e83100d7901",
-  "bundleSizeBytes": 6240762,
+  "downloadUrl": "https://github.com/Miasfou/mt-client/releases/download/v0.0.559-beta/bundle.zip",
+  "bundleHash": "e2468445437e2d10cada6bc7a54a363a38efb8d7c9de830644a3bc431d4e692b",
+  "bundleSizeBytes": 6240893,
   "files": {
-    "assets/browserAll-BX93vdcA.js": "90b166f92553f66bd3ff183b73cac3566e3463a340f00cd5d3142e1ae1944147",
-    "assets/index-BW-6PzUq.js": "2ce94d42015809bbc052850464f5f327dd9f0479d7b43f636b56d01c486b109a",
+    "assets/browserAll-CBw6qn3g.js": "b98a397dc042c529411e7c643124fc6e477607eaf3119515db7105f4b26496ab",
+    "assets/index-D8m4essa.js": "90918c7a4fed5f2c88d703980338346d6d90ee986d90a739507e464cbe09db8a",
     "assets/style-CAN1mHm-.css": "a14d33481ad60eea9d8d67a00b4082864443dd11b6fb2f6f7d4c20402193313f",
-    "assets/webworkerAll-DyE77X_t.js": "7eb594cb8ed33b65fa372c0aa666d8d058514c1ccd88b42c393fc1c05822fbf0",
+    "assets/webworkerAll-k92feC40.js": "2bf32562ac63e0f30284a8cbf7904ba1708584456019f43c7dbfe0b1050e75d2",
     "audio/acid.wav": "2300c19c5edaa094b61f65403dbd113644291ceb091bb0ec56d18be2d689145c",
     "audio/bathtub.wav": "ae20b6c364dc14c8cfba8b9d5e50c1fd0e8c55d94845bf5a3ede72241a7d11ab",
     "audio/boombox.ogg": "3c4dd1fd7026f08b75f22e2e6b3bad3f18f5eaf728a106a379846e850c27ddd6",
@@ -94,7 +94,7 @@
     "audio/windy.wav": "aeaabc9b8ed0ecd90ce5b56899074c980be8a40ceda3e4c4d92bf5b7ea6868c7",
     "audio/world_theme.ogg": "9edbd5eecc65b7d9d1eddbeccaaa5f30f056e8222e848e924e1d0c3c01075f7f",
     "engine.wasm": "a8c861e80ee991427c14f309442eb68ca6df92be2c1472ee7f70d7992d7acdad",
-    "index.html": "386610b1c4cbe7c9605f647c01799e6a1034a856bc24db2f53fc1d6f038aaca3",
+    "index.html": "5508582486cdbd34c1965a4bd1a24366c58c0bc1e35e6ab7fdf9c101c4fe3ef6",
     "miatopia.mtpak": "13ffdf6a24e94f7a455cdf5035df758aa8f866c330cbac5ebdcd2a4afb6a5922"
   }
 }
